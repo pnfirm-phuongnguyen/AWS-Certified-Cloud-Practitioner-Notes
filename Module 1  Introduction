@@ -1,0 +1,15 @@
+Learning objectives 
+in this module , you will learn how to : 
+*summarize the benefits of AWS
+*describes differences between on-demand delivery nd cloud deployments  
+*summarize the pay-as-you-go pricing model 
+you only pay for what you use 
+what is  client -server model ? 
+you just learned more about AWS and how almost all of modern computing uses a basic client-server model 
+let recap what a client-server model is 
+client <-> server 
+in computing  a client can be a web browser or desktop application that a person interacts with to make requests to computers servers 
+a server can be services such as AMAZON ELASTIC COMPUTE CLOUD ( AMAZON EC2 ), A type of virtual server 
+
+for example , suppose that a client makes a request for a news articles , the score is an online game or a funny video . The server evaluates the details of this requests and 
+fulfills it by returning the information to the client .
